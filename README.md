@@ -31,17 +31,7 @@ MATLAB / Octave · LabVIEW · Proteus · Multisim · LTSpice · KiCad
 **Otros conocimientos:**  
 Linux (nivel intermedio) · REST APIs · JSON · VirtualBox · Google Maps API · Cloud Computing (certificación Huawei)
 
----
 
-## 🧠 Habilidades Blandas
-
-- Comunicación efectiva
-- Gestión de equipos grandes
-- Adaptabilidad tecnológica
-- Capacidad de explicar soluciones técnicas a usuarios no técnicos
-- Trabajo autónomo y liderazgo de proyectos
-
----
 
 ## 🌐 Idiomas
 
