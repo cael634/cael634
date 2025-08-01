@@ -61,6 +61,7 @@ Participación en grupos de estudio y desarrollo con enfoque en:
 CalmMind es una aplicación móvil desarrollada en Flutter para ayudar a las personas a gestionar la ansiedad mediante ejercicios de respiración guiada. Ofrece animaciones visuales relajantes, modos interactivos y una interfaz intuitiva diseñada para fomentar la calma y el bienestar emocional.
 
 Ver en GitHub: [https://github.com/cael634/calmy](https://github.com/cael634/calmy)
+
 ---
 
 ## 📜 Certificaciones
