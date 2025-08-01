@@ -49,12 +49,18 @@ Desarrollador principal (Flutter · Firebase · Web)
 - Integración con Google Maps API para logística.  
 - +30.000 descargas acumuladas.
 
+Ver en GitHub: [https://github.com/cael634/OPEN](https://github.com/cael634/OPEN)
+
 ### 🔹 Semilleros de Investigación – UNAL  
 Participación en grupos de estudio y desarrollo con enfoque en:  
 - Inteligencia Artificial  
 - Hacking Ético  
 - Mecatrónica
 
+### 🌿 CalmMind – App Flutter para Respiración Guiada y Ansiedad
+CalmMind es una aplicación móvil desarrollada en Flutter para ayudar a las personas a gestionar la ansiedad mediante ejercicios de respiración guiada. Ofrece animaciones visuales relajantes, modos interactivos y una interfaz intuitiva diseñada para fomentar la calma y el bienestar emocional.
+
+Ver en GitHub: [https://github.com/cael634/calmy](https://github.com/cael634/calmy)
 ---
 
 ## 📜 Certificaciones
