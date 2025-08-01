@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👨‍💻 Cristian Eraso
 
-<!--
-**cael634/cael634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Bogotá, Colombia  
+📧 cael04311@gmail.com  
+📞 +57 316 377 9791  
+🔗 [LinkedIn](https://www.linkedin.com/in/cristian-eraso-b41221161/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Estudiante de Ingeniería Electrónica**  
+_Universidad Nacional de Colombia (UNAL) – Graduación: Noviembre 2025_
+
+Apasionado por la tecnología, el desarrollo de software y los sistemas embebidos. Tengo experiencia práctica en proyectos de impacto real, como la app **OPEN**, que ha superado las 30.000 descargas. Me interesa participar en iniciativas que integren **software, hardware y ciencia de datos**, con enfoque en eficiencia y escalabilidad.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+**Lenguajes:**  
+Python · C++ · Java · Dart · Verilog · VHDL · HTML · JavaScript · CSS · C
+
+**Frameworks / IDEs:**  
+Flutter · Arduino IDE · Android Studio · Visual Studio · Firebase (Auth, Firestore, Cloud Messaging) · Git & GitHub
+
+**Bases de Datos:**  
+MySQL · SQLite · Firebase Realtime Database / Firestore
+
+**Diseño Electrónico y Simulación:**  
+MATLAB / Octave · LabVIEW · Proteus · Multisim · LTSpice · KiCad
+
+**Otros conocimientos:**  
+Linux (nivel intermedio) · REST APIs · JSON · VirtualBox · Google Maps API · Cloud Computing (certificación Huawei)
+
+---
+
+## 🧠 Habilidades Blandas
+
+- Comunicación efectiva
+- Gestión de equipos grandes
+- Adaptabilidad tecnológica
+- Capacidad de explicar soluciones técnicas a usuarios no técnicos
+- Trabajo autónomo y liderazgo de proyectos
+
+---
+
+## 🌐 Idiomas
+
+- **Español:** Nativo  
+- **Inglés:** Nivel B2 (Oxford Test – UNAL, 2025)
+
+---
+
+## 🧪 Experiencia Académica y Proyectos
+
+### 🔹 OPEN – Plataforma de pedidos y logística (2020 – 2025)  
+Desarrollador principal (Flutter · Firebase · Web)  
+- App para empresas del sector alimenticio: ventas, pedidos, rutas, estadísticas.  
+- Backend en Firebase: Authentication, Firestore, Cloud Messaging.  
+- Integración con Google Maps API para logística.  
+- +30.000 descargas acumuladas.
+
+### 🔹 Semilleros de Investigación – UNAL  
+Participación en grupos de estudio y desarrollo con enfoque en:  
+- Inteligencia Artificial  
+- Hacking Ético  
+- Mecatrónica
+
+---
+
+## 📜 Certificaciones
+
+- **Cisco Networking Academy**  
+  - Junior Cybersecurity Analyst Career Path  
+  - Conceptos básicos de redes  
+  - Network Technician Career Path  
+- **Huawei Certified ICT Associate (HCIA)**  
+  - AI V3.0 – Inteligencia Artificial  
+  - Cloud Services V2.2 – Servicios en la nube  
+  - Big Data V3.0 – Big Data
+
+---
+
